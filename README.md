@@ -1,2 +1,18 @@
-# responsive-travel-card-ui
-A clean and responsive travel card UI built using HTML and CSS, featuring an image, tags, description text, and a call-to-action button.
+# Responsive Travel Card UI
+
+A clean and responsive card UI built using HTML and CSS.
+Live demo:
+
+
+## Features
+- Responsive design (mobile & desktop)
+- Clean card layout
+- Image with rounded corners
+- Tags and call-to-action button
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Shruti
